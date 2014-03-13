@@ -1,3 +1,10 @@
+/*!
+ * Expanable Search
+ * Original author: @Marmik Desai
+ * Further changes, comments: @Marmik Desai
+ * Licensed under the MIT license
+ */;
+
 var default_content="";
 jQuery(document).ready(function(){
 	checkURL();
